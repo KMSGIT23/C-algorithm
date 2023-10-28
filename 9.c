@@ -11,6 +11,5 @@ int main(void){
         printf("*x = %d\n", *x);
         free(x);
     }
-
     return 0;
 }
